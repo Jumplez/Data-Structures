@@ -1,1 +1,1 @@
-Data Structures project in which we were asked to create an Quicksort,mergesort and heapsort algorithm in order to organise data in the first part. Second part required binary search trees and hash tables in order to store data.
+Data Structures project in which we were asked to create a Quicksort,mergesort and heapsort algorithm in order to organise data in the first part. Second part required binary search trees and hash tables in order to store data.
